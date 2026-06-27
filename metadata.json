@@ -1,0 +1,6 @@
+{
+  "name": "Viral Trends Tracker",
+  "description": "Tracks viral social media content, trending topics, and categories with real-time Google Search grounding via Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
